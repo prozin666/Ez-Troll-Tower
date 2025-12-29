@@ -12,6 +12,9 @@ local scripts = {
 
     -- Sentar com fixador
     "https://raw.githubusercontent.com/Marcelo28hd/Script-de-sentar-com-fixador/main/Sentar%20com%20fixador",
+
+    -- Excluir porta de TP / Aura EZ Troll
+    "https://raw.githubusercontent.com/Marcelo28hd/Excluir-portaa-de-tp-ez-troll-/refs/heads/main/Ez%20troll%20muita%20aura",
 }
 
 for _, url in ipairs(scripts) do
