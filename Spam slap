@@ -1,20 +1,20 @@
--- CENTRAL LOADER - Marcelo28hd
+-- CENTRAL LOADER - prozin666
 -- Executa múltiplos scripts automaticamente
 
 print("[Central Loader] Iniciando...")
 
 local scripts = {
     -- Spam Slap
-    "https://raw.githubusercontent.com/Marcelo28hd/Spam-slap-ez-trol/main/Slap",
+    "https://raw.githubusercontent.com/prozin666/Spam-slap-ez-trol/main/Slap",
 
     -- Anti Slap
-    "https://raw.githubusercontent.com/Marcelo28hd/Slap-tower-1-atualizado/main/Anti%20slap",
+    "https://raw.githubusercontent.com/prozin666/Slap-tower-1-atualizado/main/Anti%20slap",
 
     -- Sentar com fixador
-    "https://raw.githubusercontent.com/Marcelo28hd/Script-de-sentar-com-fixador/main/Sentar%20com%20fixador",
+    "https://raw.githubusercontent.com/prozin666/Script-de-sentar-com-fixador/main/Sentar%20com%20fixador",
 
     -- Excluir porta de TP / Aura EZ Troll
-    "https://raw.githubusercontent.com/Marcelo28hd/Excluir-portaa-de-tp-ez-troll-/refs/heads/main/Ez%20troll%20muita%20aura",
+    "https://raw.githubusercontent.com/prozin666/Excluir-portaa-de-tp-ez-troll-/refs/heads/main/Ez%20troll%20muita%20aura",
 }
 
 for _, url in ipairs(scripts) do
